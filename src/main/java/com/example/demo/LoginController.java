@@ -8,6 +8,6 @@ public class LoginController {
 
     @RequestMapping("login")
     public void login(){
-        System.out.println();
+        System.out.println("branch 1");
     }
 }
