@@ -9,5 +9,6 @@ public class LoginController {
     @RequestMapping("login")
     public void login(){
         System.out.println("branch 2");
+
     }
 }
